@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayushpal07
 - 👀 I’m interested in writing code in java , Dance🕺 , listen music 🎧 , play guitar 🎸
-- 🌱 I’m currently studying in B.Sc Second year and working on java & Full Stack Developer.
+- 🌱 I’m currently studying in MCA Frist year and working on java & Full Stack Developer.
 - 💞️ I’m looking for part time work from home Intership 
 - 📫 How to reach me 
 - 💬 Ask me anything about Full Stack Developer except personal
